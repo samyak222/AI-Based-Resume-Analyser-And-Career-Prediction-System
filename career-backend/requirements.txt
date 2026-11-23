@@ -5,3 +5,5 @@ catboost
 pandas
 numpy
 joblib
+
+gunicorn
