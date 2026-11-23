@@ -5,6 +5,9 @@
 
 **Discover your interests. Explore your strengths. Find a direction worth pursuing.**
 
+[🌐 **Live Demo — Try Pathfinder**](https://pathfinder-ai-career.vercel.app/)
+
+
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![Python](https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white)](https://python.org/)
